@@ -6,8 +6,7 @@ My name is **Wissam Talal AbuAresh** ,I graduate computer science from mutah uni
 
 
 ## table of content 
-       Reads | Link
------------- | -------------
+       
 Growth Mindset | [Growth Mindset](https://wissamtalal9.github.io/reading-note/Growth)
 Read-01 | [Read-01](https://wissamtalal9.github.io/reading-note/read-01)
 Read-02 | [Read-02](https://wissamtalal9.github.io/reading-note/Read-02)
