@@ -1,9 +1,6 @@
 # reading-notes
 
-
-
 My name is **Wissam Talal AbuAresh** ,I graduate computer science from mutah university and i wish to be agood web developer in this course
-
 
 ## table of content 
        
