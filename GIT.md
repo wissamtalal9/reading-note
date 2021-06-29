@@ -1,5 +1,4 @@
-Git vs. GitHub
-Git vs. GitHub
+# Git vs. GitHub
 Git or GitHub. Are they the same thing? If not, are they connected in some way? Or, like Java and JavaScript, is the connection only superficial? 
 
 These questions are definitely worth asking. After all, Microsoft was willing to shell out $7.5 billion dollars to acquire GitHub back in 2018, so developers of all skill levels should be sitting up and taking notice. But the truth is that Git and GitHub are connected much more closely than Java and JavaScript — but with some key differences setting them apart.
