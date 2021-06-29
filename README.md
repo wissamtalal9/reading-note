@@ -4,11 +4,6 @@
 
 My name is **Wissam Talal AbuAresh** ,I graduate computer science from mutah university and i wish to be agood web developer in this course
 
-| Name of page      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
 
 ## table of content 
        
