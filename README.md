@@ -11,6 +11,11 @@ Growth Mindset | [Growth Mindset](https://wissamtalal9.github.io/reading-note/Gr
 Read-01 | [Read-01](https://wissamtalal9.github.io/reading-note/read-01)
 Read-02 | [Read-02](https://wissamtalal9.github.io/reading-note/Read-02)
 
+## table of content 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 
 
