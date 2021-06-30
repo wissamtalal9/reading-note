@@ -16,4 +16,4 @@ So excited to take this journey with awesome people
 ```
  
 
-[MINDSET](github.com/wissamtalal9/reading-note/Mindset.jpg)
+[MINDSET](Mindset.jpg)
