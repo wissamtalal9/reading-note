@@ -16,4 +16,4 @@ So excited to take this journey with awesome people
 ```
  
 
-[MINDSET](Mindset.jpq)
+[MINDSET](https://github.com/wissamtalal9/reading-note/blob/91c1b2303da1eae3cec7d41c3f94630d15786954/Mindset.jpg)
