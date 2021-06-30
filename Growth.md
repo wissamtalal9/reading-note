@@ -16,4 +16,4 @@ So excited to take this journey with awesome people
 ```
  
 
-![MINDSET](Mindset.jpq)
+[MINDSET](Mindset.jpq)
