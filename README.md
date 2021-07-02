@@ -8,6 +8,8 @@ Growth Mindset | [Growth Mindset](https://wissamtalal9.github.io/reading-note/Gr
 Read-01 | [Read-01](https://wissamtalal9.github.io/reading-note/Read-01)
 Read-02 | [Read-02](https://wissamtalal9.github.io/reading-note/Read-02)
 Read-03 | [read03](https://wissamtalal9.github.io/reading-note/read03)
+Read-04 | [Read-04](https://wissamtalal9.github.io/reading-note/Read-04)
+
 
  
 
