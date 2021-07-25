@@ -7,7 +7,7 @@ My name is **Wissam Talal AbuAresh** ,I graduate CS computer science from mutah 
 | Contents    | Link        |   About   |
 | :---        |    :----:   |          ---: |
 | Class-01    | [Click Here](https://wissamtalal9.github.io/reading-note/class-01) | Introductory HTML and JavaScript |
-| Class-02    | [Click Here](https://wissamtalal9.github.io/reading-note/class-02) | Not yet |
+| Class-02    | [Click Here](https://wissamtalal9.github.io/reading-note/class-02) | Basics of HTML, CSS & JS |
 | Class-03    | [Click Here](https://wissamtalal9.github.io/reading-note/class-03) | Not yet |
 | Class-04    | [Click Here](https://wissamtalal9.github.io/reading-note/class-04) | Not yet |
 | Class-05    | [Click Here](https://wissamtalal9.github.io/reading-note/class-05) | Not yet |
