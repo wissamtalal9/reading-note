@@ -1,0 +1,151 @@
+# HTML Links, JS Functions, and Intro to CSS Layout
+## HTML Links - Hyperlinks
+
+You can click on a link and jump to another document.
+
+When you move the mouse over a link, the mouse arrow will turn into a little hand.
+
+Note: A link does not have to be text. A link can be an image or any other HTML element!
+
+The HTML <a> tag defines a hyperlink. It has the following syntax:
+<a href="url">link text</a>
+The most important attribute of the <a> element is the href attribute, which indicates the link's destination.
+
+The link text is the part that will be visible to the reader.
+
+Clicking on the link text, will send the reader to the specified URL address.
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
+## HTML Links - The target Attribute
+By default, the linked page will be displayed in the current browser window. To change this, you must specify another target for the link.
+
+The target attribute specifies where to open the linked document.
+
+The target attribute can have one of the following values:
+
+_self - Default. Opens the document in the same window/tab as it was clicked
+_blank - Opens the document in a new window or tab
+_parent - Opens the document in the parent frame
+_top - Opens the document in the full body of the window
+
+# JavaScript Functions
+A JavaScript function is a block of code designed to perform a particular task.
+A JavaScript function is executed when "something" invokes it (calls it).
+Example
+function myFunction(p1, p2) {
+  return p1 * p2;   // The function returns the product of p1 and p2
+}
+## JavaScript Function Syntax
+A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
+
+Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
+
+The parentheses may include parameter names separated by commas:
+(parameter1, parameter2, ...)
+
+The code to be executed, by the function, is placed inside curly brackets: {}
+function name(parameter1, parameter2, parameter3) {
+  // code to be executed
+}
+Function parameters are listed inside the parentheses () in the function definition.
+
+Function arguments are the values received by the function when it is invoked.
+
+Inside the function, the arguments (the parameters) behave as local variables.
+
+## Function Return
+When JavaScript reaches a return statement, the function will stop executing.
+
+If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement.
+
+Functions often compute a return value. The return value is "returned" back to the "caller":]
+
+Example
+Calculate the product of two numbers, and return the result:
+
+let x = myFunction(4, 3);   // Function is called, return value will end up in x
+
+function myFunction(a, b) {
+  return a * b;             // Function returns the product of a and b
+}
+
+Why Functions?
+You can reuse code: Define the code once, and use it many times.
+
+You can use the same code many times with different arguments, to produce different results.
+Example
+Convert Fahrenheit to Celsius:
+
+function toCelsius(fahrenheit) {
+  return (5/9) * (fahrenheit-32);
+}
+document.getElementById("demo").innerHTML = toCelsius(77);
+
+# CSS Website Layout
+A website is often divided into headers, menus, content and a footer:
+## Header
+A header is usually located at the top of the website (or right below a top navigation menu). It often contains a logo or the website name:
+Example
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+## Navigation Bar
+A navigation bar contains a list of links to help visitors navigating through your website:
+Example
+/* The navbar container */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+## Content
+The layout in this section, often depends on the target users. The most common layout is one (or combining them) of the following:
+
+1-column (often used for mobile browsers)
+2-column (often used for tablets and laptops)
+3-column layout (only used for desktops)
+Example
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+## Footer
+The footer is placed at the bottom of your page. It often contains information like copyright and contact info:
+Example
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
