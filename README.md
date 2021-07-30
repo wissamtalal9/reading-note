@@ -10,7 +10,7 @@ My name is **Wissam Talal AbuAresh** ,I graduate CS computer science from mutah 
 | Class-02    | [Click Here](https://wissamtalal9.github.io/reading-note/class-02) | Basics of HTML, CSS & JS |
 | Read-03     | [Click Here](https://wissamtalal9.github.io/reading-note/read-03) | HTML Lists, Control Flow with JS, and the CSS Box Model |
 | Read-04     | [Click Here](https://wissamtalal9.github.io/reading-note/read-004) | HTML Links, JS Functions, and Intro to CSS Layout |
-| Read-05    | [Click Here](https://wissamtalal9.github.io/reading-note/read-05) | Not yet |
+| Read-05    | [Click Here](https://wissamtalal9.github.io/reading-note/Read-05.md) | HTML Images; CSS Color & Text |
 | Class-06    | [Click Here](https://wissamtalal9.github.io/reading-note/class-06) | Not yet |
 | Class-07    | [Click Here](https://wissamtalal9.github.io/reading-note/class-07) | Not yet |
 | Class-08    | [Click Here](https://wissamtalal9.github.io/reading-note/class-08) | Not yet |
