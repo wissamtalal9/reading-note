@@ -11,7 +11,7 @@ My name is **Wissam Talal AbuAresh** ,I graduate CS computer science from mutah 
 | Read-03     | [Click Here](https://wissamtalal9.github.io/reading-note/read-03) | HTML Lists, Control Flow with JS, and the CSS Box Model |
 | Read-04     | [Click Here](https://wissamtalal9.github.io/reading-note/read-004) | HTML Links, JS Functions, and Intro to CSS Layout |
 | Read-05    | [Click Here](https://wissamtalal9.github.io/reading-note/Read-05.md) | HTML Images; CSS Color & Text |
-| Read-06    | [Click Here](https://wissamtalal9.github.io/reading-note/read-06) | Not yet |
+| Read-06    | [Click Here](https://wissamtalal9.github.io/reading-note/read-06) | Problem Domain, Objects, and the DOM |
 | Class-07    | [Click Here](https://wissamtalal9.github.io/reading-note/class-07) | Not yet |
 | Class-08    | [Click Here](https://wissamtalal9.github.io/reading-note/class-08) | Not yet |
 | Class-09    | [Click Here](https://wissamtalal9.github.io/reading-note/class-09) | Not yet |
