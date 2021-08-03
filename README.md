@@ -13,7 +13,7 @@ My name is **Wissam Talal AbuAresh** ,I graduate CS computer science from mutah 
 | Read-05    | [Click Here](https://wissamtalal9.github.io/reading-note/Read-05.md) | HTML Images; CSS Color & Text |
 | Read-06    | [Click Here](https://wissamtalal9.github.io/reading-note/read-06) | Problem Domain, Objects, and the DOM |
 | Read-07    | [Click Here](https://wissamtalal9.github.io/reading-note/read-07) | Object-Oriented Programming and HTML Tables |
-| Class-08    | [Click Here](https://wissamtalal9.github.io/reading-note/class-08) | Not yet |
+| Read-08    | [Click Here](https://wissamtalal9.github.io/reading-note/read-08) | CSS Layout |
 | Class-09    | [Click Here](https://wissamtalal9.github.io/reading-note/class-09) | Not yet |
 | Class-10    | [Click Here](https://wissamtalal9.github.io/reading-note/class-10) | Not yet |
 | Class-11    | [Click Here](https://wissamtalal9.github.io/reading-note/class-11) | Not yet |
