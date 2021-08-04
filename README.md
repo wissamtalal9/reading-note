@@ -15,7 +15,7 @@ My name is **Wissam Talal AbuAresh** ,I graduate CS computer science from mutah 
 | Read-07    | [Click Here](https://wissamtalal9.github.io/reading-note/read-07) | Object-Oriented Programming and HTML Tables |
 | Read-08    | [Click Here](https://wissamtalal9.github.io/reading-note/read-08) | CSS Layout |
 | Read-09    | [Click Here](https://wissamtalal9.github.io/reading-note/read-09) | Forms And JS Events |
-| Class-10    | [Click Here](https://wissamtalal9.github.io/reading-note/class-10) | Not yet |
+| Read-10    | [Click Here](https://wissamtalal9.github.io/reading-note/read-10) | JS Debugging |
 | Class-11    | [Click Here](https://wissamtalal9.github.io/reading-note/class-11) | Not yet |
 | Class-12    | [Click Here](https://wissamtalal9.github.io/reading-note/class-12) | Not yet |
 | Class-13    | [Click Here](https://wissamtalal9.github.io/reading-note/class-13) | Not yet |
