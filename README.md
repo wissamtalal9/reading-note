@@ -17,7 +17,7 @@ My name is **Wissam Talal AbuAresh** ,I graduate CS computer science from mutah 
 | Read-09    | [Click Here](https://wissamtalal9.github.io/reading-note/read-09) | Forms And JS Events |
 | Read-10    | [Click Here](https://wissamtalal9.github.io/reading-note/read-10) | JS Debugging |
 | Read-11    | [Click Here](https://wissamtalal9.github.io/reading-note/read-11) | Audio, Video, Images In HTML |
-| Class-12    | [Click Here](https://wissamtalal9.github.io/reading-note/class-12) | Not yet |
+| Read-12    | [Click Here](https://wissamtalal9.github.io/reading-note/read-12) | Chart.js, Canvas |
 | Class-13    | [Click Here](https://wissamtalal9.github.io/reading-note/class-13) | Not yet |
 | Class-14    | [Click Here](https://wissamtalal9.github.io/reading-note/class-14) | Not yet |
 | Class-15    | [Click Here](https://wissamtalal9.github.io/reading-note/class-15) | Not yet |
