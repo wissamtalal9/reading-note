@@ -19,8 +19,8 @@ My name is **Wissam Talal AbuAresh** ,I graduate CS computer science from mutah 
 | Read-11    | [Click Here](https://wissamtalal9.github.io/reading-note/read-11) | Audio, Video, Images In HTML |
 | Read-12    | [Click Here](https://wissamtalal9.github.io/reading-note/read-12) | Chart.js, Canvas |
 | Read-13    | [Click Here](https://wissamtalal9.github.io/reading-note/read-13) | Local Storage |
-| Class-14    | [Click Here](https://wissamtalal9.github.io/reading-note/class-14) | Not yet |
-| Class-15    | [Click Here](https://wissamtalal9.github.io/reading-note/class-15) | Not yet |
+| Read-14-a    | [Click Here](https://wissamtalal9.github.io/reading-note/read-14-a) | CSS Transforms, Transitions, and Animations |
+| Read-14-b    | [Click Here](https://wissamtalal9.github.io/reading-note/read-14-b) | What Google Learned About Teams |
 
 ## table of content 102 code
        
